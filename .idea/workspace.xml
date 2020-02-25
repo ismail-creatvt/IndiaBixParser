@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a665d65-ea63-4a5f-871f-aa96bbf2c6f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,9 +109,10 @@
       <screen x="45" y="27" width="1321" height="741" />
     </state>
     <state x="463" y="49" key="#xdebugger.evaluate/45.27.1321.741@45.27.1321.741" timestamp="1582638752894" />
-    <state x="315" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1580734310328">
-      <screen x="51" y="27" width="1315" height="741" />
+    <state x="310" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1582640501291">
+      <screen x="45" y="27" width="1321" height="741" />
     </state>
+    <state x="310" y="27" key="CommitChangelistDialog2/45.27.1321.741@45.27.1321.741" timestamp="1582640501291" />
     <state x="315" y="27" width="777" height="741" key="CommitChangelistDialog2/51.27.1315.741@51.27.1315.741" timestamp="1580734310328" />
     <state width="1319" height="542" key="DebuggerActiveHint" timestamp="1582633923418">
       <screen x="45" y="27" width="1321" height="741" />
@@ -169,15 +163,20 @@
     </state>
     <state x="192" y="31" key="SettingsEditor/45.27.1321.741@45.27.1321.741" timestamp="1582628275287" />
     <state x="197" y="31" key="SettingsEditor/51.27.1315.741@51.27.1315.741" timestamp="1580734054824" />
-    <state x="303" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1580734323463">
-      <screen x="51" y="27" width="1315" height="741" />
+    <state x="298" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582640513136">
+      <screen x="45" y="27" width="1321" height="741" />
     </state>
+    <state x="298" y="132" key="Vcs.Push.Dialog.v2/45.27.1321.741@45.27.1321.741" timestamp="1582640513136" />
     <state x="303" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/51.27.1315.741@51.27.1315.741" timestamp="1580734323463" />
     <state x="359" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582628174849">
       <screen x="45" y="27" width="1321" height="741" />
     </state>
     <state x="359" y="225" key="com.intellij.ide.util.TipDialog/45.27.1321.741@45.27.1321.741" timestamp="1582628174849" />
     <state x="364" y="225" key="com.intellij.ide.util.TipDialog/51.27.1315.741@51.27.1315.741" timestamp="1581927720250" />
+    <state x="473" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582640483251">
+      <screen x="45" y="27" width="1321" height="741" />
+    </state>
+    <state x="473" y="316" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/45.27.1321.741@45.27.1321.741" timestamp="1582640483251" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

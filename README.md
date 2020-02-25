@@ -1,5 +1,6 @@
 # IndiaBix Parser
 Web Scrapper written in Python that parses the [IndiaBix](https://indiabix.com) website and generates an sqlite database file containing question data.
+
 Question Schema
 - id : INTEGER AUTO-GENERATED
 - question : TEXT
